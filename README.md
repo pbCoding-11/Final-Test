@@ -3,7 +3,8 @@ Hello! This is my final project for a class I'm taking Spring 2026. It is a vers
 Project Title: Scrabble Single Player
 Author: pbCoding-11
 
-GoofyGoober: The folder to the main source code in both App.java and Tile.java
+App.java: Where the UI and actions of the OOP takes place
+Tile.java: class initialized to be used within App.java
 description: Single-player mode of Scrabble where combinations of characters on the screen allow user to gain points depending on the letter, and length!
 structure: Structure in OOP format, trying to keep one main "alphabet" list as a means to keep everything grounded
 
